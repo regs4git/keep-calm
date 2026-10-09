@@ -13,17 +13,6 @@ PWA simples para criar posters no formato 2:3, sem contas, backend ou dependênc
 - Preferências guardadas automaticamente no dispositivo.
 - Instalação como PWA e funcionamento offline após a primeira visita completa.
 
-## Publicar no GitHub Pages
-
-1. Cria um repositório, por exemplo `keep-calm`.
-2. Extrai este ZIP e coloca **os ficheiros directamente na raiz do repositório**, sem uma pasta intermédia.
-3. No GitHub, abre **Settings → Pages**.
-4. Em **Build and deployment**, selecciona **Deploy from a branch**.
-5. Escolhe a branch `main` e a pasta **/(root)**, depois **Save**.
-6. Aguarda a publicação e abre o endereço apresentado pelo GitHub Pages: normalmente `https://UTILIZADOR.github.io/keep-calm/`.
-
-Os caminhos são relativos: podes escolher outro nome para o repositório. Não precisas de configurar chaves, instalar pacotes ou compilar. A disponibilidade de Pages em repositórios privados depende do teu plano GitHub.
-
 ## Instalar
 
 - **Android:** abre no Chrome e usa «Instalar aplicação» ou «Adicionar ao ecrã principal». O botão de instalação surge na app quando o browser o disponibiliza.
